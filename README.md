@@ -1,5 +1,5 @@
-
-    ```javascript
+<p align="center">
+    `
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Python", "Java", "php"],
@@ -18,8 +18,8 @@ const anmol = {
         databases: ["mongo", "MySql", "sqlite"],
     },
 };
-```
-
+`
+</p>
 
 <br>
 
@@ -39,7 +39,7 @@ Hit me up on twitter [@souheilbz](https://www.linkedin.com/in/souheil-bouzouita/
 </p>
 
 
-![22b22287602523 5dbd29081561d](https://user-images.githubusercontent.com/76651082/160643051-c0da3506-4359-432f-9985-ff067ce8f0d4.gif)
+
 
 
 
