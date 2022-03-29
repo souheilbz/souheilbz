@@ -1,5 +1,5 @@
 <p align="center">
-    `
+    ```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Python", "Java", "php"],
@@ -18,7 +18,7 @@ const anmol = {
         databases: ["mongo", "MySql", "sqlite"],
     },
 };
-`
+```
 </p>
 
 <br>
