@@ -1,4 +1,4 @@
-<p align="center">
+
     ```javascript
 const anmol = {
     pronouns: "He" | "Him",
@@ -19,7 +19,7 @@ const anmol = {
     },
 };
 ```
-</p>
+
 
 <br>
 
