@@ -1,7 +1,7 @@
 <p align="center">
    
    ```javascript
-const anmol = {
+const souheil = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C++", "Python", "Java", "php"],
     askMeAbout: ["Artificial Intelligence", "Mobile dev", "Web dev", "Tech"],
