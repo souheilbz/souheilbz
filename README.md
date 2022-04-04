@@ -24,7 +24,7 @@ const souheil = {
 
 <br>
 
-I am a Senior Computer Science Engineering student specialized in Artificial Intelligence,Web, Mobile and DevOps. History working in startups, open-sourced projects and other large-scale projects. I'll let my github profile fill in rest of the details for you...
+I am a Senior Computer Science Engineering student specialized in Artificial Intelligence,Web, Mobile and DevOps. History working in startups, open-sourced projects and other large-scale projects. I'll let my github profile fill in rest of the details for you..
 
 Hit me up on LinkedIn [@souheilbz](https://www.linkedin.com/in/souheil-bouzouita/) to see the other side 🙌
 
