@@ -7,6 +7,7 @@ const souheil = {
     askMeAbout: ["Artificial Intelligence", "Mobile dev", "Web dev", "Tech"],
     technologies: {
         mobileApp: ["Flutter"],
+        Artificial Intelligence: ["TesnsorFlow", "Keras", "OpenCV"],
         frontEnd: {
             js: ["React", "Vue"],
             css: ["vuetify", "bootstrap"]
