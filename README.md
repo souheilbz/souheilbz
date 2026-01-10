@@ -1,5 +1,5 @@
 <p align="center">
-javascript
+```javascript
 const souheil = {
     pronouns: "He" | "Him",
     code: ["Dart", "JavaScript", "Python", "Java", "C++"],
@@ -8,9 +8,9 @@ const souheil = {
         mobileApp: {
             framework: ["Flutter"],
             stateManagement: ["Provider", "Riverpod"],
-            tools: ["Firebase", "Google Maps API", "RevenueCat", "Push Notifications", "In-App Payments"]
+            tools: ["Firebase", "Google Maps API", "RevenueCat", "Push Notifications"]
         },
-        artificialIntelligence: ["TensorFlow Lite", "Computer Vision", "Object Detection", "Image Classification", "OpenCV"],
+        artificialIntelligence: ["TensorFlow Lite", "Computer Vision", "Object Detection", "OpenCV"],
         frontEnd: {
             js: ["React", "Vue"],
             css: ["Bootstrap", "Vuetify"]
@@ -28,11 +28,11 @@ const souheil = {
     achievements: {
         appStoreRank: "#1",
         totalUsers: "40K+",
-        appsDeployed: "12+ production stores",
-        productsShipped: ["Dari TN", "Moniteur+", "GoldTech Solutions"]
+        appsDeployed: "12+ production stores"
     }
 };
 ```
+
 </p>
 <br>
 
@@ -43,6 +43,7 @@ Experience spans startups, open-source projects, and large-scale production appl
 Hit me up on LinkedIn [@souheilbz](https://www.linkedin.com/in/souheil-bouzouita/) to connect 🙌
 
 -----------
+
 <p align='center'>
      <a href="https://souheilbouzouita.netlify.app">
         <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=Stadia&logoColor=white" />
