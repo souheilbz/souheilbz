@@ -1,5 +1,5 @@
 <p align="center">
-```javascript
+javascript
 const souheil = {
     pronouns: "He" | "Him",
     code: ["Dart", "JavaScript", "Python", "Java", "C++"],
