@@ -46,7 +46,7 @@ Hit me up on LinkedIn [@souheilbz](https://www.linkedin.com/in/souheil-bouzouita
 -----------
 
 <p align='center'>
-     <a href="https://souheil-bouzouita.vercel.app">
+     <a href="https://souheil-bouzouita.com">
         <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=Stadia&logoColor=white" />
     </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/souheil-bouzouita/">
